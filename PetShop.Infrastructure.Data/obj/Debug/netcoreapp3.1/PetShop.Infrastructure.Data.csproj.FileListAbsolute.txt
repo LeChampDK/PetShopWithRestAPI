@@ -12,3 +12,16 @@ C:\Skole\PetShop\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Inf
 C:\Skole\PetShop\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.csproj.CopyComplete
 C:\Skole\PetShop\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.dll
 C:\Skole\PetShop\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.pdb
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.deps.json
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.dll
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.pdb
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Core.dll
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.dll
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Core.pdb
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.pdb
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.AssemblyInfo.cs
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.csproj.CopyComplete
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.dll
+C:\Skole\LeChampDK\PetShopWithRestAPI\PetShop.Infrastructure.Data\obj\Debug\netcoreapp3.1\PetShop.Infrastructure.Data.pdb

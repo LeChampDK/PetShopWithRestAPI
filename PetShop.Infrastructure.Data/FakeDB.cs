@@ -6,7 +6,7 @@ namespace PetShop.Infrastructure.Data
 {
     public class FakeDB
     {
-        static int id = 1;
+        public static int id = 1;
         public static List<Pet> _pets = new List<Pet>();
 
         public static void InitData()

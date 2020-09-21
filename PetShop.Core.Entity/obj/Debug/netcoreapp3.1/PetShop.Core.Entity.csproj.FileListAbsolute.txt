@@ -1,0 +1,9 @@
+C:\Skole\PetShop\PetShop.Core.Entity\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.deps.json
+C:\Skole\PetShop\PetShop.Core.Entity\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.dll
+C:\Skole\PetShop\PetShop.Core.Entity\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.pdb
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.csprojAssemblyReference.cache
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.AssemblyInfoInputs.cache
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.AssemblyInfo.cs
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.dll
+C:\Skole\PetShop\PetShop.Core.Entity\obj\Debug\netcoreapp3.1\PetShop.Core.Entity.pdb

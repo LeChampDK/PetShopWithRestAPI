@@ -1,0 +1,12 @@
+C:\Skole\PetShop\PetShop.Core\bin\Debug\netcoreapp3.1\PetShop.Core.deps.json
+C:\Skole\PetShop\PetShop.Core\bin\Debug\netcoreapp3.1\PetShop.Core.dll
+C:\Skole\PetShop\PetShop.Core\bin\Debug\netcoreapp3.1\PetShop.Core.pdb
+C:\Skole\PetShop\PetShop.Core\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.dll
+C:\Skole\PetShop\PetShop.Core\bin\Debug\netcoreapp3.1\PetShop.Core.Entity.pdb
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.csprojAssemblyReference.cache
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.AssemblyInfoInputs.cache
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.AssemblyInfo.cs
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.csproj.CopyComplete
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.dll
+C:\Skole\PetShop\PetShop.Core\obj\Debug\netcoreapp3.1\PetShop.Core.pdb

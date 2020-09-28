@@ -29,6 +29,26 @@ namespace PetShop.RestAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+                options.AddDefaultPolicy(
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin();
+                    })
+            );
+
+            //   • Allow a specific origin (the URL must be specified without
+            //    a trailing slash)
+            // builder => builder.WithOrigins("http://example.com");
+            //    • Allow two origins
+            // builder => builder.WithOrigins("http://example.com",
+            //  "http://www.contoso.com"));
+            //    • Allow a specific origin and all its subdomains:
+            // builder => builder.WithOrigins("http://*.example.com")
+            //    .SetIsOriginAllowedToAllowWildcardSubdomains());
+            // (The above example also demonstrates
+            // that CorsPolicyBuilder methods can be chained) 
+
             services.AddScoped<IPetRepository, PetRepository>();
             services.AddScoped<IPetService, PetService>();
             services.AddControllers();
